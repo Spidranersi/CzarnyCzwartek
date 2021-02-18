@@ -6,3 +6,4 @@ def czyPelnoletni(rokUrodzenia):
 
 wiek = 2021 = int(input())
 print(wiek)
+.................................
